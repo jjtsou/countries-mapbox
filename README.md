@@ -1,4 +1,4 @@
-# kpler-countries-list
+# countries-mapbox
 
 ## Introduction
 
