@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am pleased to have been part of this project, where I had the opportunity to work with a variety of technologies, including Vue.js, Mapbox, Tailwind CSS, TypeScript, Pinia, and Vite. While my primary expertise lies in React, this project marked my second venture into the world of Vue.js, and it has been an insightful journey of learning and growth.
+I am pleased to have had the opportunity to implement this project, where I had the opportunity to work with a variety of technologies, including Vue.js, Mapbox, Tailwind CSS, TypeScript, Pinia, and Vite. While my primary expertise lies in React, this project marked my second venture into the world of Vue.js, and it has been an insightful journey of learning and growth.
 
 ## What I Learned
 
@@ -29,7 +29,7 @@ git clone https://github.com/yourusername/yourrepository.git
 cd yourrepository
 ```
 
-## Project Setup
+### Install dependencies
 
 ```sh
 npm install
