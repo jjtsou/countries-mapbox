@@ -15,5 +15,4 @@ import { useCountriesStore } from '@/stores'
 
 const countriesStore = useCountriesStore()
 const { avgPopulation } = storeToRefs(countriesStore)
-console.log(avgPopulation)
 </script>

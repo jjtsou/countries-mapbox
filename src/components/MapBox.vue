@@ -16,8 +16,7 @@ const selectedCountryStore = useSelectedCountryStore()
 let map: Map
 
 onMounted(() => {
-  mapboxgl.accessToken =
-    'pk.eyJ1Ijoiamp0c291IiwiYSI6ImNscTB4cHVwZTAyd2oyaW8xbWRsZW12N28ifQ.ws2UUTPxVZOOXPS25_CH0g'
+  mapboxgl.accessToken = 'Your_personal_mapbox_token'
 
   map = new mapboxgl.Map({
     container: 'mapContainer',
